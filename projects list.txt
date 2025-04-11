@@ -2,3 +2,7 @@ List of projects done in react js:
 
 1. Password Generator
 2. Currency Converter
+3. React Router
+4. Mini Context (Context api)
+5. Theme switcher
+6. Todo List Using Context
